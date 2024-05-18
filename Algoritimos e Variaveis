@@ -1,0 +1,7 @@
+#Prova de algoritmos e variaveis
+
+altura = float(input('qual a altura do retangulo?'))
+base = float(input('qual a base do retangulo?'))
+
+area = altura * base
+print('a area do retangulo é:', area)
